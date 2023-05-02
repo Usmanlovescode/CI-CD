@@ -7,7 +7,7 @@ const App = () => {
   return (
     <>
       <Navbar />
-     
+      <h1>HEllo from PAKISTAN</h1>
 
     </>
   );
